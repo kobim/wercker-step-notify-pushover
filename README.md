@@ -51,5 +51,8 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Changelog
 
+## 0.0.2
+- Trimmed message size to fit.
+
 ## 0.0.1
 - First version
