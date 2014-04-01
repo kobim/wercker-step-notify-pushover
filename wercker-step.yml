@@ -1,0 +1,20 @@
+name: notify-pushover
+version: 0.0.1
+description: Posts wercker build/deploy status to your Pushover app.
+keywords:
+  - notification
+  - push
+  - pushover
+properties:
+  token:
+    type: string
+    required: true
+  user:
+    type: string
+    required: true
+  device:
+    type: string
+    required: false
+  title:
+    type: string
+    required: false
