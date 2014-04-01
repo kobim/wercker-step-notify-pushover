@@ -23,8 +23,8 @@ Add the following step to your `wercker.yml` (or use Pipeline variables instead)
             - kobim/notify-pushover:
                 token: $PUSHOVER_APP_TOKEN
                 user: $PUSHOVER_USER_TOKEN
-                title: dev # OPTIONAL
-                username: builder # OPTIONAL
+                title: my dev # OPTIONAL
+                device: iphone5s # OPTIONAL
 
 # License
 
