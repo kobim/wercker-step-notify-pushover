@@ -2,7 +2,7 @@
 
 Posts wercker build/deploy status to your [Pushover](https://pushover.net) app.
 
-[![wercker status](https://app.wercker.com/status/49d7c3919df2d65ed4679bcc86eb3477/m "wercker status")](https://app.wercker.com/project/bykey/49d7c3919df2d65ed4679bcc86eb3477)
+[![wercker status](https://app.wercker.com/status/dacc5069aa8329cfb516d8b30bdb17ce/m "wercker status")](https://app.wercker.com/project/bykey/dacc5069aa8329cfb516d8b30bdb17ce)
 
 ### Required fields
 
